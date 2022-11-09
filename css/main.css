@@ -283,8 +283,8 @@ h6 {
 /* ==========================================================================
    Hero Section
    ========================================================================== */
-.hero-section{
-    background-image: url(/Users/muhammadadlinsaufi/Documents/AdlinZamri2022.github.io/img/hero-bg.jpg);
+   .hero-section{
+    background-image: url(../img/hero-bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
