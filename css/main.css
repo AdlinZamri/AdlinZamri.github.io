@@ -799,7 +799,7 @@ footer p a {
         display: none;
     }
     .header {
-        background-attachment: fixed !important;
+        background-attachment: scroll !important;
         background-position: 50% 0 !important;
     }
     .header .caption h4 {
